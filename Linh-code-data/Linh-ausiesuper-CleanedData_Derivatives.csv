@@ -1,0 +1,18 @@
+Effective Date,Fund Name,Option Code,Option Name,Asset Class,Filter,Sub-Filter,Name,Name Type,Currency,Issuer Type,Security Identifier,Units Held,Location,Address,% Ownership,$ Value,Weighting (%),Actual Currency Exposure (%),Actual Asset Allocation (%),Effect of Derivatives Exposure (%),Classification,Sort Order,Value Range,Geo Latitude,Geo Longitude,Int/Ext
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Equity,Asset Class,,,,,,,,,,,63.45,-0.1,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Fixed Income,Asset Class,,,,,,,,,,,15.61,-1.05,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Infrastructure,Asset Class,,,,,,,,,,,15.16,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Property,Asset Class,,,,,,,,,,,4.2,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Cash,Asset Class,,,,,,,,,,,1.45,-0.36,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Alternatives,Asset Class,,,,,,,,,,,0.13,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Asset Class,,Total,Total,,,,,,,,,,,100.0,-1.52,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Currency,,AUD,Currency Exposure,,,,,,,,,,79.55,,32.4,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Currency,,USD,Currency Exposure,,,,,,,,,,14.5,,-23.93,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Currency,,Currencies of other developed markets,Currency Exposure,,,,,,,,,,4.27,,-8.75,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Currency,,Currencies of emerging markets,Currency Exposure,,,,,,,,,,1.68,,-1.23,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Currency,,Total,Total,,,,,,,,,,100.0,,-1.52,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Kind,,Futures,Kind of Derivatives,,,,,,,,55771023.0,0.02,,,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Kind,,Forwards,Kind of Derivatives,,,,,,,,-2595691998.0,-1.09,,,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Kind,,Options,Kind of Derivatives,,,,,,,,208033267.0,0.09,,,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Kind,,Swaps,Kind of Derivatives,,,,,,,,-1287004350.0,-0.54,,,,,,,,,1
+31 Dec 2024,AusieSuper,ARBA,Balanced,Derivatives,By Kind,,,Total,,,,,,,,-3618892058.0,-1.52,,,,,,,,,1
