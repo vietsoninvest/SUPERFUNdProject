@@ -1920,7 +1920,7 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 31/12/2024,Care Super,Balanced,Listed Equity,1,Zurich Insurance Group AG,,ZURN ,SW,"2,711",,,"2,603,505",0.0001
 31/12/2024,Care Super,Balanced,Listed Equity,1,Zydus Lifesciences Ltd,,ZYDUSLIF ,India,"34,384",,,"630,297",0.0
 31/12/2024,Care Super,Balanced,Listed Equity,1,Sub Total,,,,,,,"20,656,832,970",0.48729999999999996
-31/12/2024,Care Super,Balanced,Unlisted Equity,0,Industry Super Holdings Pty Ltd,,,,,0.0359,,,
+31/12/2024,Care Super,Balanced,Unlisted Equity,0,Industry Super Holdings Pty Ltd,,,,,3.59%,,,
 31/12/2024,Care Super,Balanced,Unlisted Equity,0,Sub Total,,,,,,,"156,157,014",0.0037
 31/12/2024,Care Super,Balanced,Unlisted Equity,1,"Adams Street Partners, LLC",,,,,,,"407,367,121",0.0096
 31/12/2024,Care Super,Balanced,Unlisted Equity,1,Avenue Capital Group,,,,,,,"14,887,150",0.0004
@@ -2256,9 +2256,9 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 31/12/2024,Care Super,Balanced,Listed Property,1,Xior Student Housing NV,,XIOR ,Barbados,"4,951",,,"245,511",0.0
 31/12/2024,Care Super,Balanced,Listed Property,1,Zillow Group Inc,,Z ,United States of America (the),"8,465",,,"1,012,393",0.0
 31/12/2024,Care Super,Balanced,Listed Property,1,Sub Total,,,,,,,"1,006,022,437",0.023700000000000002
-31/12/2024,Care Super,Balanced,Unlisted Property,0,Flagstone & Spring,,,,,0.0,Spring Mountain Drive and Pademelon Court Greenbank QLD 4124,,
-31/12/2024,Care Super,Balanced,Unlisted Property,0,Flinders Ports Wineshed,,,,,1.0,"Lot 5, Pelican Point Road, Outer Harbour, SA, 5018",,
-31/12/2024,Care Super,Balanced,Unlisted Property,0,PEET Alkimos Pty Ltd,,,,,0.5372,"47 Painted Pkwy, Alkimos WA 6038",,
+31/12/2024,Care Super,Balanced,Unlisted Property,0,Flagstone & Spring,,,,,0.00%,Spring Mountain Drive and Pademelon Court Greenbank QLD 4124,,
+31/12/2024,Care Super,Balanced,Unlisted Property,0,Flinders Ports Wineshed,,,,,100.00%,"Lot 5, Pelican Point Road, Outer Harbour, SA, 5018",,
+31/12/2024,Care Super,Balanced,Unlisted Property,0,PEET Alkimos Pty Ltd,,,,,53.72%,"47 Painted Pkwy, Alkimos WA 6038",,
 31/12/2024,Care Super,Balanced,Unlisted Property,0,Sub Total,,,,,,,"47,216,770",0.0011
 31/12/2024,Care Super,Balanced,Unlisted Property,1,Charter Hall Holdings Pty Ltd,,,,,,,"656,737,830",0.0155
 31/12/2024,Care Super,Balanced,Unlisted Property,1,Dexus Wholesale Property Limited,,,,,,,"542,670,029",0.0128
@@ -2277,10 +2277,10 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 31/12/2024,Care Super,Balanced,Listed Infrastructure,1,NETLINK NBN TRUST,,NETLINK ,SP,"35,728",,,"36,801",0.0
 31/12/2024,Care Super,Balanced,Listed Infrastructure,1,Transurban Group,,TCL ,Australia,"5,969,566",,,"79,932,482",0.0019
 31/12/2024,Care Super,Balanced,Listed Infrastructure,1,Sub Total,,,,,,,"90,370,311",0.0021
-31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Brisbane Airport Corp,,,,,0.048600000000000004,,,
-31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Flinders Ports Pty Limited,,,,,0.20809999999999998,,,
-31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Hobart Airport,,,,,0.3,,,
-31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Port Of Geelong,,,,,0.3,,,
+31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Brisbane Airport Corp,,,,,4.86%,,,
+31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Flinders Ports Pty Limited,,,,,20.81%,,,
+31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Hobart Airport,,,,,30.00%,,,
+31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Port Of Geelong,,,,,30.00%,,,
 31/12/2024,Care Super,Balanced,Unlisted Infrastructure,0,Sub Total,,,,,,,"1,230,576,384",0.028999999999999998
 31/12/2024,Care Super,Balanced,Unlisted Infrastructure,1,Antin Infrastructure Partners SAS,,,,,,,"342,244,598",0.008100000000000001
 31/12/2024,Care Super,Balanced,Unlisted Infrastructure,1,Dexus Capital Investment Services Pty Limited,,,,,,,"300,141,760",0.0070999999999999995
