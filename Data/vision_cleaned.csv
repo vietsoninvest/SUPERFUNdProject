@@ -66,20 +66,20 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 2024-12-31,Vision Super Fund,Balanced growth,Cash,1,"State Street Global Advisors, Australia, Limited",AUD,,,,,,18508.1574,0
 2024-12-31,Vision Super Fund,Balanced growth,Cash,1,Vision Cash,AUD,,,,,,-2993821.553,-0.0004
 2024-12-31,Vision Super Fund,Balanced growth,Cash,1,Sub Total,,,,,,,303538343.6939,0.0422
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,AUSTRALIA & NEW ZEALAND BANKING GROUP LTD,,,,,,,11339775.29,0.0016
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,BANK OF QUEENSLAND LTD,,,,,,,41319805.2,0.0057
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,BENDIGO & ADELAIDE BANK LTD,,,,,,,58424440.11,0.0081
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,COMMONWEALTH BANK OF AUSTRALIA,,,,,,,34019584.34,0.0047
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,Norfina Limited,,,,,,,126922848.1,0.0176
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,WESTPAC BANKING CORP,,,,,,,70747519.34,0.0098
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income Internal,0,Sub Total,,,,,,,342773972.38,0.0475
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,Amundi Singapore Limited,,,,,,,872351744.9,0.1208
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,Barings Global Advisers Limited,,,,,,,70867352.8,0.0098
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,"Brandywine Global Investment Management, LLC",,,,,,,117006712.3,0.0162
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,IFM Investors Pty Ltd,,,,,,,210024351.1,0.0291
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,Metrics Credit Partners Pty Ltd,,,,,,,95187814.28,0.0132
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,Principal Global Investors (Australia) Limited,,,,,,,47410871.37,0.0066
-2024-12-31,Vision Super Fund,Balanced growth,Fixed Income External,1,Sub Total,,,,,,,1412848846.75,0.1957
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,AUSTRALIA & NEW ZEALAND BANKING GROUP LTD,,,,,,,11339775.29,0.0016
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,BANK OF QUEENSLAND LTD,,,,,,,41319805.2,0.0057
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,BENDIGO & ADELAIDE BANK LTD,,,,,,,58424440.11,0.0081
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,COMMONWEALTH BANK OF AUSTRALIA,,,,,,,34019584.34,0.0047
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,Norfina Limited,,,,,,,126922848.1,0.0176
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,WESTPAC BANKING CORP,,,,,,,70747519.34,0.0098
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,0,Sub Total,,,,,,,342773972.38,0.0475
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,Amundi Singapore Limited,,,,,,,872351744.9,0.1208
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,Barings Global Advisers Limited,,,,,,,70867352.8,0.0098
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,"Brandywine Global Investment Management, LLC",,,,,,,117006712.3,0.0162
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,IFM Investors Pty Ltd,,,,,,,210024351.1,0.0291
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,Metrics Credit Partners Pty Ltd,,,,,,,95187814.28,0.0132
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,Principal Global Investors (Australia) Limited,,,,,,,47410871.37,0.0066
+2024-12-31,Vision Super Fund,Balanced growth,Fixed Income,1,Sub Total,,,,,,,1412848846.75,0.1957
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,29METALS LTD COMMON STOCK AUD,,BNNVRL0,,2329363,,,570693.8542,0.0001
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,3I GROUP PLC COMMON STOCK GBP 73.8636,,B1YW440,,34243,,,2468616.562,0.0003
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,A2 MILK CO LTD/THE COMMON STOCK NZD 0,,2F5232S,,287841,,,1660843.259,0.0002
@@ -939,21 +939,21 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,ZURICH INSURANCE GROUP AG COMMON STOCK CHF 0.1,,5983816,,5106,,,4901511.901,0.0007
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,ZYDUS LIFESCIENCES LTD COMMON STOCK INR 1,,BYM8TG8,,7650,,,140078.1048,0
 2024-12-31,Vision Super Fund,Balanced growth,Listed Equity,1,Sub Total,,,,,,,3748001429.92751,0.5183
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity Internal,0,Industry Super Holdings Ptl Limited,,,,,0.029,,,
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity Internal,0,ISPT OPERATIONS TRUST AUD,,,,,0.036,,,
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity Internal,0,Sub Total,,,,,,,37375481.8,0.0052
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Baillie Gifford Overseas Limited,,,,,,,9030777.547,0.0013
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,BlackRock Realty Advisors,,,,,,,210600.0174,0
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Generation Investment Management LLP,,,,,,,117602.7777,0
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,IFM Investors Pty Ltd,,,,,,,4595797.68,0.0006
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Lexington Partners,,,,,,,322562.4758,0
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,"Mesirow Financial Investment Management, Inc",,,,,,,2410855.667,0.0003
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Metrics Credit Partners Pty Ltd,,,,,,,21549.3607,0
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,ROC Capital Pty Limited,,,,,,,1429676.914,0.0002
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Stafford Capital Partners Pty Limited,,,,,,,1552275.009,0.0002
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,"StepStone VC Global Partners IV, L.P.",,,,,,,6686963.506,0.0009
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,VenCap International plc,,,,,,,25082655.28,0.0035
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity External,1,Sub Total,,,,,,,51461316.2346,0.007
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,0,Industry Super Holdings Ptl Limited,,,,,0.029,,,
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,0,ISPT OPERATIONS TRUST AUD,,,,,0.036,,,
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,0,Sub Total,,,,,,,37375481.8,0.0052
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Baillie Gifford Overseas Limited,,,,,,,9030777.547,0.0013
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,BlackRock Realty Advisors,,,,,,,210600.0174,0
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Generation Investment Management LLP,,,,,,,117602.7777,0
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,IFM Investors Pty Ltd,,,,,,,4595797.68,0.0006
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Lexington Partners,,,,,,,322562.4758,0
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,"Mesirow Financial Investment Management, Inc",,,,,,,2410855.667,0.0003
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Metrics Credit Partners Pty Ltd,,,,,,,21549.3607,0
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,ROC Capital Pty Limited,,,,,,,1429676.914,0.0002
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Stafford Capital Partners Pty Limited,,,,,,,1552275.009,0.0002
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,"StepStone VC Global Partners IV, L.P.",,,,,,,6686963.506,0.0009
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,VenCap International plc,,,,,,,25082655.28,0.0035
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Equity,1,Sub Total,,,,,,,51461316.2346,0.007
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,ABACUS STORAGE KING REIT AUD,,BQYLGZ7,,746117,,,839381.7085,0.0001
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,AGREE REALTY CORP REIT USD 0.0001,,2062161,,6374,,,725136.8193,0.0001
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,APN CONVENIENCE RETAIL REIT,,BPG8J16,,168337,,,488176.278,0.0001
@@ -1028,14 +1028,14 @@ Effective Date,Fund Name,Option Name,Asset Class Name,Int/Ext,Name/Kind of Inves
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,WAYPOINT REIT LTD REIT AUD,,BLBQ285,,3627874,,,8452947.41,0.0012
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,WELLTOWER INC,,BYVYHH4,,49995,,,10164606.97,0.0014
 2024-12-31,Vision Super Fund,Balanced growth,Listed Property,1,Sub Total,,,,,,,233248181.9989,0.032
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property External,1,ISPT Pty Ltd,,,,,,,288915926.2,0.04
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property External,1,"State Street Global Advisors, Australia, Limited",,,,,,,2000709.375,0.0003
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property External,1,Sub Total,,,,,,,290916635.575,0.0403
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property,1,ISPT Pty Ltd,,,,,,,288915926.2,0.04
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property,1,"State Street Global Advisors, Australia, Limited",,,,,,,2000709.375,0.0003
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Property,1,Sub Total,,,,,,,290916635.575,0.0403
 2024-12-31,Vision Super Fund,Balanced growth,Listed Infrastructure,1,APA GROUP STAPLED SECURITY AUD 0,,6247306,,395991,,,2760057.025,0.0004
 2024-12-31,Vision Super Fund,Balanced growth,Listed Infrastructure,1,ATLAS ARTERIA LTD STAPLED SECURITY AUD,,BZ03TZ1,,593114,,,2817291.271,0.0004
 2024-12-31,Vision Super Fund,Balanced growth,Listed Infrastructure,1,DALRYMPLE BAY INFRASTRUCTURE LTD STAPLED SECURITY,,BNM6Z56,,598914,,,2156089.206,0.0003
 2024-12-31,Vision Super Fund,Balanced growth,Listed Infrastructure,1,TRANSURBAN GROUP STAPLED SECURITY AUD 0,,6200882,,2124915,,,28452608.44,0.0039
 2024-12-31,Vision Super Fund,Balanced growth,Listed Infrastructure,1,Sub Total,,,,,,,36186045.942,0.005
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure External,1,Copenhagen Infrastructure Partners P/S,,,,,,,32167216.1,0.0045
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure External,1,IFM Investors Pty Ltd,,,,,,,804693090.1,0.1114
-2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure External,1,Sub Total,,,,,,,836860306.2,0.1159
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure,1,Copenhagen Infrastructure Partners P/S,,,,,,,32167216.1,0.0045
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure,1,IFM Investors Pty Ltd,,,,,,,804693090.1,0.1114
+2024-12-31,Vision Super Fund,Balanced growth,Unlisted Infrastructure,1,Sub Total,,,,,,,836860306.2,0.1159
