@@ -1,4 +1,4 @@
-﻿BBG_Code,ISO_Alpha2,Composite_Code,Country (Friendly)
+BBG_Code,ISO_Alpha2,Composite_Code,Country (Friendly)
 AJ,ZA,SJ,South Africa
 PF,AU,AU,Australia
 UP,US,US,United States
@@ -157,7 +157,7 @@ DH,AE,UH,United Arab Emirates
 NONE,IT,NO COMPOSITE CODE,Italy
 AG,DZ,AG,Algeria
 JR,JO,JR,Jordan
-NA,NL,NA,Netherlands
+,NL,,Netherlands
 NONE,NL,NO COMPOSITE CODE,Netherlands
 AY,AM,AY,Armenia
 UA,US,US,United States
@@ -329,7 +329,7 @@ MW,MW,MW,Malawi
 GM,DE,GR,Germany
 OM,OM,OM,Oman
 KN,KE,KN,Kenya
-NW,NA,NW,Namibia
+NW,,NW,Namibia
 NONE,US,NO COMPOSITE CODE,United States
 UR,US,US,United States
 NONE,SE,NO COMPOSITE CODE,Sweden
