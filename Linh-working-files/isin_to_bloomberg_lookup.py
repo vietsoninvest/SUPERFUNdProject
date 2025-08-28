@@ -70,6 +70,17 @@ def openfigi_map_isins(isins: List[str], api_key: Optional[str], batch_size: int
                     raise
             break
         results = resp.json()
+
+        # DEBUG: quick peek at first few responses to verify micCode is present
+        if i == 0:  # only for the first batch
+            for j, r in enumerate(results[:3]):  # first 3 items
+                print(f"[DEBUG] ISIN={batch[j]} -> keys per entry:")
+                if r.get("data"):
+                    for k, d in enumerate(r["data"][:3]):  # each entry
+                        print(f"  - entry {k} keys:", sorted(d.keys()))
+                else:
+                    print("  - no data")
+
         for req_isin, res in zip(batch, results):
             data = res.get("data") or []
             if not data:
@@ -84,7 +95,7 @@ def openfigi_map_isins(isins: List[str], api_key: Optional[str], batch_size: int
                         "ISIN": req_isin,
                         "ticker": d.get("ticker"),
                         "exchCode": d.get("exchCode"),
-                        "mic": d.get("mic"),
+                        "micCode": d.get("micCode"),
                         "name": d.get("name"),
                         "marketSector": d.get("marketSector"),
                         "compositeFIGI": d.get("compositeFIGI"),
@@ -264,7 +275,7 @@ def main():
     out = df_src.loc[valid_mask, [args.name_col, args.stockid_col, "ISIN"]].merge(df_map, on="ISIN", how="left")
 
     # Ensure columns in desired order
-    want_cols = [args.name_col, args.stockid_col, "ISIN", "ticker", "exchCode", "mic", "name", "marketSector", "compositeFIGI"]
+    want_cols = [args.name_col, args.stockid_col, "ISIN", "ticker", "exchCode", "micCode", "name", "marketSector", "compositeFIGI"]
     for col in want_cols:
         if col not in out.columns:
             out[col] = None
