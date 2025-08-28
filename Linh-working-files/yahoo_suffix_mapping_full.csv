@@ -1,0 +1,72 @@
+Suffix,Exchange,Country,ISO_MIC
+,NYSE/NASDAQ (no suffix → US),United States,XNYS/XNAS
+.TO,Toronto Stock Exchange,Canada,XTSE
+.V,TSX Venture Exchange,Canada,XTSX
+.CN,Canadian Securities Exchange,Canada,XCNQ
+.NE,Cboe Canada (NEO Exchange),Canada,NEOE
+.L,London Stock Exchange,United Kingdom,XLON
+.IL,LSE - International Order Book (IOB),United Kingdom,XLON
+.IR,Euronext Dublin (Irish Stock Exchange),Ireland,XDUB
+.AS,Euronext Amsterdam,Netherlands,XAMS
+.PA,Euronext Paris,France,XPAR
+.BR,Euronext Brussels,Belgium,XBRU
+.LS,Euronext Lisbon,Portugal,XLIS
+.MI,Borsa Italiana (Milan),Italy,XMIL
+.VI,Vienna Stock Exchange,Austria,XVIE
+.MC,Bolsa de Madrid,Spain,XMAD
+.SW,SIX Swiss Exchange,Switzerland,XSWX
+.CO,Nasdaq Copenhagen,Denmark,XCSE
+.ST,Nasdaq Stockholm,Sweden,XSTO
+.OL,Oslo Børs,Norway,XOSL
+.HE,Nasdaq Helsinki,Finland,XHEL
+.IC,Nasdaq Iceland,Iceland,XICE
+.DE,Xetra (Deutsche Börse),Germany,XETR
+.F,Frankfurt Stock Exchange (Floor),Germany,XFRA
+.BE,Berlin Stock Exchange,Germany,XBER
+.DU,Düsseldorf Stock Exchange,Germany,XDUS
+.SG,Stuttgart Stock Exchange,Germany,XSTU
+.MU,Munich Stock Exchange,Germany,XMUN
+.HM,Hamburg Stock Exchange,Germany,XHAM
+.HA,Hanover Stock Exchange,Germany,XHAN
+.PR,Prague Stock Exchange,Czechia,XPRA
+.WA,Warsaw Stock Exchange,Poland,XWAR
+.RO,Bucharest Stock Exchange,Romania,XBSE
+.IS,Borsa Istanbul,Turkey,XIST
+.AT,Athens Stock Exchange,Greece,XATH
+.ME,Moscow Exchange (MOEX),Russia,MISX
+.TA,Tel Aviv Stock Exchange,Israel,XTAE
+.SR,Saudi Exchange (Tadawul),Saudi Arabia,XSAU
+.QA,Qatar Stock Exchange,Qatar,XQAT
+.KW,Kuwait Stock Exchange (Boursa Kuwait),Kuwait,
+.AD,Abu Dhabi Securities Exchange (ADX),UAE,XADS
+.DU,Dubai Financial Market (DFM),UAE,XDFM
+.BH,Bahrain Bourse,Bahrain,XBHR
+.MS,Muscat Securities Market (MSX),Oman,
+.JO,Johannesburg Stock Exchange (JSE),South Africa,XJSE
+.HK,Hong Kong Stock Exchange,Hong Kong,XHKG
+.SS,Shanghai Stock Exchange,China,XSHG
+.SZ,Shenzhen Stock Exchange,China,XSHE
+.T,Tokyo Stock Exchange,Japan,XTKS
+.KS,Korea Exchange - KOSPI,South Korea,XKRX
+.KQ,Korea Exchange - KOSDAQ,South Korea,XKOS
+.TW,Taiwan Stock Exchange (TSE),Taiwan,XTAI
+.TWO,Taipei Exchange (OTC),Taiwan,
+.SI,Singapore Exchange (SGX),Singapore,XSES
+.JK,Indonesia Stock Exchange,Indonesia,XIDX
+.KL,Bursa Malaysia,Malaysia,XKLS
+.BK,Stock Exchange of Thailand (SET),Thailand,XSET
+.PS,Philippine Stock Exchange (PSE),Philippines,XPHS
+.VN,Ho Chi Minh Stock Exchange (HOSE),Vietnam,XSTC
+.HN,Hanoi Stock Exchange (HNX),Vietnam,XHNX
+.AX,Australian Securities Exchange,Australia,XASX
+.NZ,NZX Limited,New Zealand,XNZE
+.NS,National Stock Exchange of India,India,XNSE
+.BO,Bombay Stock Exchange,India,XBOM
+.CM,Colombo Stock Exchange,Sri Lanka,
+.KA,Karachi Stock Exchange (PSX),Pakistan,
+.SA,B3 (Brasil Bolsa Balcão),Brazil,BVMF
+.MX,Bolsa Mexicana de Valores (BMV),Mexico,XMEX
+.BA,Bolsa de Comercio de Buenos Aires (BCBA),Argentina,XBUE
+.SN,Bolsa de Comercio de Santiago,Chile,XSGO
+.LM,Bolsa de Valores de Lima,Peru,XLIM
+.COLO,Bolsa de Valores de Colombia (BVC),Colombia,
