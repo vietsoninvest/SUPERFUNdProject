@@ -2,7 +2,7 @@ name: Keep Supabase Awake
 
 on:
   schedule:
-    - cron: "0 7 * * *" # every day at 07:00 UTC
+    - cron: "0 7 */3 * *" # every day at 07:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Ping Supabase
         run: |
-          curl -s -o /dev/null -w "%{http_code}" https://your-project-ref.supabase.co/rest/v1/
+          curl -s -o /dev/null -w "%{http_code}" https://laremattjpwkgpmwitzv.supabase.co/rest/v1/
