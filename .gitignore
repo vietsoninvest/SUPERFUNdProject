@@ -22,4 +22,4 @@ env/
 
 # Local development settings
 *.env
-.env.local
+.env.localDS_Store
